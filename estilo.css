@@ -1,0 +1,19 @@
+h4,p{
+ font-style: oblique;
+ text-align: center;
+}
+h4{ color: #162148; }
+
+p{ color: grey;}
+
+#mapid{
+  height: 100%;
+  width: 100%;
+  margin-left: 140px;
+}
+
+#foot{
+	text-align: center;
+	font-size: 0.9em;
+	margin-top: 40px;
+}
